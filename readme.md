@@ -1,5 +1,5 @@
 # Movie Recommendation System
-I created an application which shows some movie recommendation according to your search along with their posters and TMDB movie link ,to know more about the recommended movies. To see my app in action (click here)[https://nitin-pilkhwal-movie-recommendation-system-main-geq5hv.streamlit.app].
+I created an application which shows some movie recommendation according to your search along with their posters and TMDB movie link ,to know more about the recommended movies. To see my app in action [click here](https://nitin-pilkhwal-movie-recommendation-system-main-geq5hv.streamlit.app).
 
 ## Overview
 
