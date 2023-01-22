@@ -7,8 +7,8 @@ import pandas as pd
 #function to fetch poster from TMBD database
 
 def fetch_poster(movie_id):
-    API_key= #please your TMDB api key here
-    response= requests.get('https://api.themoviedb.org/3/movie/{}?api_key={}&language=en-US'.format(movie_id,API_key))
+#     API_key= #please your TMDB api key here
+    response= requests.get('https://api.themoviedb.org/3/movie/{}?api_key=9b933ef7d90adbfb974c67f14710e36c&language=en-US'.format(movie_id,API_key))
     data=response.json()
     return "https://image.tmdb.org/t/p/w500" + data['poster_path']
 
